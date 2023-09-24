@@ -1,0 +1,24 @@
+.table,th,td{
+    border: 1px solid black;
+    
+    color: black;
+}
+*{
+    background-color: beige;
+    font-family: Arial,  sans-serif;
+}
+#Description,#Feedback,#Attraction{
+    background-color: aqua;
+    color: pink;
+}
+button{
+    border: none;
+    background-color: blueviolet;
+    border-radius: 5%;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+}
+button:hover{
+    background-color: red;
+}
